@@ -22,7 +22,7 @@ SUMBER = [
      "url": "https://www.bps.go.id/id/statistics-table/2/MTkyIzI=/persentase-penduduk-miskin--p0--menurut-provinsi-dan-daerah.html"},
     {"judul": "Gini Ratio Menurut Provinsi dan Daerah",
      "url": "https://www.bps.go.id/id/statistics-table/2/OTgjMg==/gini-ratio-menurut-provinsi-dan-daerah.html"},
-    {"judul": "Garis Kemiskinan dan Jumlah Penduduk Miskin menurut Provinsi (isi judul tabel BPS yang kamu pakai)",
+    {"judul": "Garis Kemiskinan dan Jumlah Penduduk Miskin menurut Provinsi",
      "url": ""},
 ]
 
