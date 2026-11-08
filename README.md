@@ -2,7 +2,7 @@
 
 Dashboard interaktif (Python, Streamlit, Plotly) untuk Tugas Proyek Akhir: Perancangan dan Implementasi Dashboard Data Ekonomi Interaktif.
 
-**Tautan dashboard:** [isi tautan Streamlit setelah deploy]
+**Tautan dashboard:** [https://dashboard-kemiskinan-dg8c8p2zvcdgd9ueqev2ku.streamlit.app/]
 **Disusun oleh:** [Sherly Natasya Zahwa 245020101111033]
 
 ## Indikator
