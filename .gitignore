@@ -1,0 +1,10 @@
+# Lingkungan virtual dan cache Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Berkas sementara editor dan sistem
+.vscode/
+.DS_Store
+~$*.xlsx
